@@ -1,10 +1,7 @@
 # MacRandomizationEnabler for Android 10(+)
 
-This is a simple Magisk Module that will allow you to disable notch detection on your device.
-
-What does that really mean?
-Allowing apps such as Instagram, Snapchat, and games to fill in that notched space.
-
+The purpose of this magisk module is to enable Mac Randomization on your device in case it was left turned off by your OEM
+I've only encountered this with the Essential Phone so far, but it's possible there's others.
 
 ## Requirements
 - Android 10(+)
